@@ -1,0 +1,14 @@
+datamap.c
+edit_distance.c
+entry.c
+haversine.c
+linkedlist.c
+main.c
+match.c
+options_parser.c
+query.c
+ranking.c
+search.c
+shift_and.c
+../assignment/accents.c
+../assignment/utf8.c
